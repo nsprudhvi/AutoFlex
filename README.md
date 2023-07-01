@@ -4,11 +4,11 @@ This repository contains the experiment results for the AutoFlex project. The ex
 
 ## Files
 
-- `datasets/`: This directory contains the datasets used in the experiment. The datasets are in various formats such as CSV and Excel files. These datasets represent different problem domains and serve as the input for the AutoML process.
+- `datasets/`: This directory contains the datasets used in the experiment. The datasets are in various formats, such as CSV and Excel files. These datasets represent different problem domains and serve as the input for the AutoML process.
 
-- `AutoFlex Python code.ipynb`: This Jupyter Notebook file contains the implementation of the AutoFlex framework in Python. It includes the code for algorithm selection, hyperparameter optimization, feature engineering, and model evaluation using scikit-learn and related libraries.
+- `AutoFlex Python code.ipynb`: This Jupyter Notebook file contains the implementation of the AutoFlex framework in Python. It includes the code for algorithm selection, hyperparameter optimisation, feature engineering, and model evaluation using scikit-learn and related libraries.
 
-- `Experiment - AutoFlex.ipynb`: This Jupyter Notebook file details the experimental setup, methodology, and the results of the AutoFlex experiment. It provides step-by-step instructions on how to reproduce the experiment and analyze the obtained results.
+- `Experiment - AutoFlex.ipynb`: This Jupyter Notebook file details the experimental setup, methodology, and the results of the AutoFlex experiment. It provides step-by-step instructions on how to reproduce the experiment and analyse the obtained results.
 
 - `h2o_excel_file.xlsx`: This Excel file contains the results obtained from the AutoFlex experiment using the H2O AutoML framework. It includes information such as model performance metrics, execution times, and other relevant statistics.
 
@@ -19,10 +19,6 @@ This repository contains the experiment results for the AutoFlex project. The ex
 
 ## Usage
 
-To reproduce the AutoFlex experiment and analyze the results, follow the instructions provided in the `Experiment - AutoFlex.ipynb` notebook. Make sure to have the required dependencies and datasets available.
+To reproduce the AutoFlex experiment and analyse the results, follow the instructions provided in the `Experiment - AutoFlex.ipynb` notebook. Make sure to have the required dependencies and datasets available.
 
 Feel free to explore the code and experiment results to gain insights into the performance and effectiveness of the AutoFlex framework in automating machine learning tasks.
-
-## License
-
-This repository is licensed under the MIT License.
